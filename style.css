@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Saira+Stencil+One&display=swap');
+body {
+    margin: 0;
+    padding-top: 10px;
+    background: linear-gradient(115.8221404393721deg, rgba(149, 168, 181,1) 5.736111111111111%,rgba(61, 72, 78,1) 96.29166666666666%);
+}
+
+h1 {
+    margin-top: 270px;
+    padding: 0;
+}
+
+.launch-X-text {
+    background: url('img/SpaceX.gif')no-repeat;
+    color: white;
+    font-family: 'Saira Stencil One', cursive;
+    background-size: cover;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 22.4vw;
+    text-align: center;
+}
+
